@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+}
+
+p {
+  background-color: yellow; /* or any valid color */
+  padding: 50px; /* if you meant spacing */
+}
